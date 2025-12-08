@@ -4,7 +4,7 @@ Accounts on Mollymawk are how a user is able to access the mollymawk dashboard a
 
 ## Creating a new account
 
-![Sign up page](../src/images/sign_up.png)
+![Sign up page](/images/sign_up.png)
 
 To create an account on molllymawk, you need to provide a name, email and a password.
 
@@ -39,7 +39,7 @@ Only an existing administrator can promote another user to an admin role.
 
 ## Logging in
 
-![Mollymawk Sign In page](../src/images/sign_in.png)
+![Mollymawk Sign In page](/images/sign_in.png)
 
 To access your account in Mollymawk, use the sign in page. Enter the email you created the account with and your password. If all checks out, you should be redirected to the dashboard.
 

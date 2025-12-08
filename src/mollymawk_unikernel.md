@@ -51,7 +51,7 @@ $ solo5-hvt mollymawk.hvt
 
 You should see an address that opens Mollymawk on the browswer.
 
-![Mollymawk Dashboard](../src/images/mollymawk_landing_page.png)
+![Mollymawk Dashboard](/images/mollymawk_landing_page.png)
 
 ## Robur's Mollymawk
 

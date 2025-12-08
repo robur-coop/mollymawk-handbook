@@ -4,7 +4,7 @@ Albatross is the engine that runs behind Mollymawk. It is responsible for the lo
 
 Mollymawk is able to manage actions regarding multiple albatross servers. To add a new albatross server, click the `[+]` button after navigating to the `Settings` page from the sidebar.
 
-![Mollymawk Settings page](../src/images/mollymawk_settings.png)
+![Mollymawk Settings page](/images/mollymawk_settings.png)
 
 ## Albatross Server Configuration
 
@@ -18,7 +18,7 @@ Mollymawk is able to manage actions regarding multiple albatross servers. To add
 
 ## Adding a new Albatross server
 
-![Albatross Mollymawk setup](../src/images/mollymawk_albatross_setup.png)
+![Albatross Mollymawk setup](/images/mollymawk_albatross_setup.png)
 
 An albatross server can only be succesfully added if Mollymawk can succesfully connect to it. This implies the albatross server is online, healthy and can start accepting commands from Mollymawk. After a succesful connection, mollymawk will redirect to the settings page, listing the albatross server as `online`.
 
@@ -26,5 +26,5 @@ An albatross server can only be succesfully added if Mollymawk can succesfully c
 
 On the settings page, you can `modify`, or `delete` an albatross server configuration.
 
-![Mollymawk list of albatross servers](../src/images/delete_or_edit_albatross.png)
+![Mollymawk list of albatross servers](/images/delete_or_edit_albatross.png)
 

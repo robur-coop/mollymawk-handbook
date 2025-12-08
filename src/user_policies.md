@@ -5,21 +5,21 @@ These permissions are granted to a user via policies granted via albatross. An a
 
 On the sidebar, you may acces the list of user by clicking on the `Users` menu. While on this users' page, you can apply actions to a particular user by clicking the `View` button.
 
-![Mollymawk users list](../src/images/users.png)
+![Mollymawk users list](/images/users.png)
 
 ## Modifying Policies
 
 When on the user's account page, you can see information about their policies by clicking on the `Resource policy` tab.
 
-![Resource Policy](../src/images/user.png)
+![Resource Policy](/images/user.png)
 
 Here, you will see the various policies the user has with respect to all the albatross servers available. To `edit` or `update` a policy for the user, click on the `Edit` button. 
 
-![Albatross servers available Polcies page](../src/images/all_instances_policies.png)
+![Albatross servers available Polcies page](/images/all_instances_policies.png)
 
 On this page, you will see a form with all the available resources you can assign to a user which constitute the policy for the user.
 
-![Albatross policy form for user](../src/images/update_policy.png)
+![Albatross policy form for user](/images/update_policy.png)
 
 When an administrator updates the resource policy for a user on Mollymawk, they are essentially defining the "budget" of system resources that specific user is allowed to consume on a specific Albatross instance. This is accessed via the "Resource Policy" tab in a user's profile.
 

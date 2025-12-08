@@ -2,11 +2,11 @@
 
 On the dashbaord, or after a succesful unikernel deployment, the user can see the list of all their running unikernels.
 
-![All unikernels](../src/images/all_unikernels.png)
+![All unikernels](/images/all_unikernels.png)
 
 On the top-right corner, you can filter the unikernels by albatross server. To access a specific unikernel, click on the `View` button.
 
-![Hello world unikernel](../src/images/manage_unikernel.png)
+![Hello world unikernel](/images/manage_unikernel.png)
 
 ## Action Buttons
 Located in the top-right corner are three control buttons for managing the unikernel's lifecycle:
