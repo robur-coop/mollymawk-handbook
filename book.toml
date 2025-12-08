@@ -1,0 +1,5 @@
+[book]
+authors = ["Pixie Dust", "Hannes Mehnert"]
+language = "en"
+src = "src"
+title = "Mollyamwk - Unikernel management and orchestration platform."
