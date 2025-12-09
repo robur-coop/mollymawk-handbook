@@ -18,4 +18,4 @@
 
 - [Tokens](./tokens.md)
 
-- [API](./rest_api.md)
+- [Rest API](./api.md)
