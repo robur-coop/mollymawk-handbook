@@ -2,7 +2,9 @@
 
 From Wikipedia: The mollymawks are a group of medium-sized albatrosses that form the genus Thalassarche.
 
-![Mollymawk Bird from New Zealand Geographic https://www.nzgeo.com/stories/a-wing-and-a-snare/](/images/mollymawk.jpg)
+![Mollymawk Bird from New Zealand Geographic https://www.nzgeo.com/stories/a-wing-and-a-snare/](images/mollymawk.jpg)
+
+_( Bird image from New Zealand Geographic https://www.nzgeo.com/stories/a-wing-and-a-snare/ )_
 
 Mollymawk here, is a web interface for remotely managing albatross. Mollymawk provides an easy web interface to manage a fleet of unikernels, which maybe deployed over multiple albatross servers.
 

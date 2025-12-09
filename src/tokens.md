@@ -2,7 +2,7 @@
 
 In Mollymawk, Tokens are authentication credentials designed for programmatic access and automation rather than interactive browser sessions.
 
-![Tokens in Mollymawk](/images/tokens.png)
+![Tokens in Mollymawk](images/tokens.png)
 
 **Primary Uses:**
 *   **External Automation:** Tokens allow external scripts or CI/CD pipelines to interact with the Mollymawk API without a human user logging in via the web interface. They are essential for automated deployments,.
@@ -16,7 +16,7 @@ In Mollymawk, Tokens are authentication credentials designed for programmatic ac
 
 Tokens are generated via the user dashboard. The process involves the following steps:
 
-![Creating a new token form](/images/new_token.png)
+![Creating a new token form](images/new_token.png)
 
 1.  **Access the Token Page:** Navigate to the **Tokens** tab in the sidebar menu.
 2.  **Initiate Creation:** Click the **New API Key** button located in the top right corner of the page.

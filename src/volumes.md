@@ -2,7 +2,7 @@
 
 In the context of Mollymawk and MirageOS, a Volume is a persistent **block storage device**. While a unikernel's RAM is volatile (data is lost when the unikernel stops or restarts), Volumes provide a way to store data permanently. These are logical chunks of disk space allocated on the host server (Albatross instance) that can be attached to your unikernels.
 
-![Mollymawk volumes](/images/volumes.png)
+![Mollymawk volumes](images/volumes.png)
 
 The Volumes dashboard allows for full lifecycle management of these storage units:
 
@@ -14,7 +14,7 @@ The Volumes dashboard allows for full lifecycle management of these storage unit
 
 Click on the `Create block device` button. A modal should display which contains the form for creating a new volume. 
 
-![Form for creating a new volume](/images/create_volume.png)
+![Form for creating a new volume](images/create_volume.png)
 
 
 *   **Creation and Sizing:** Users can create new block devices by specifying a **Volume name** and a **Volume size** (measured in Megabytes). The interface automatically calculates the maximum size available based on the user's resource policy (e.g., "can assign up to: 174 MB").

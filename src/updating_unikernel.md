@@ -2,11 +2,11 @@
 
 After clicking the `Update` button from the unikernel's page view, mollymawk checks [our reproducible builds database](https://builds.robur.coop) if there is a newer version of the unikernel binary available. If any is found, a comparison page is displayed to the user which shows the differences between their currently deployed build and the new build.
 
-![Updating a unikernel, comparison view](/images/updating_unikernel.png)
+![Updating a unikernel, comparison view](images/updating_unikernel.png)
 
 If all is well, click on the `Update to Latest` button to proceed. A modal will be displayed to enable the user add after-checks or modify configuration parameters according to what the new build requires.
 
-![Liveliness checks during an update](/images/liveliness_check.png)
+![Liveliness checks during an update](images/liveliness_check.png)
 
 ### 1. Liveliness Checks
 These options allow the system to verify that the new build is functioning correctly immediately after deployment. If these checks fail, the system is designed to automatically **rollback** to the previous working build to prevent downtime.

@@ -7,14 +7,14 @@ When the user clicks the **Deploy a unikernel** button in the sidebar, the brows
 
 However, the backend performs a check if a specific Albatross instance (server) has been selected for this deployment.
 
-![Unikernel albatross server selection](/images/all_instances.png)
+![Unikernel albatross server selection](images/all_instances.png)
 
 *   **Redirect to Selection:** The system redirects the user to a page where all the albatross servers are listed.
 *   **Auto-Selection:** If only one instance exists, the system automatically skips this page and redirects the user to the deployment form with the instance pre-selected.
 
 ### 2. The Deploy Page
 
-![Unikernel deployment page](/images/new_unikernel.png)
+![Unikernel deployment page](images/new_unikernel.png)
 
 As shown in the deployment interface,, the user configures the following parameters:
 *   **Name:** The identifier for the unikernel.
