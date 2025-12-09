@@ -4,6 +4,8 @@ Accounts on Mollymawk are how a user is able to access the mollymawk dashboard a
 
 ## Creating a new account
 
+You can create a new account by navigating to the `/sign-up` endpoint.
+
 ![Sign up page](images/sign_up.png)
 
 To create an account on molllymawk, you need to provide a name, email and a password.
@@ -38,6 +40,8 @@ Only an existing administrator can promote another user to an admin role.
 *   **Safety Lock:** The system prevents the deactivation or removal of administrator privileges if the target user is the *last* remaining active administrator or active user, ensuring the system never becomes locked out.
 
 ## Logging in
+
+You can log in to an account by navigating to the `/sign-in` endpoint.
 
 ![Mollymawk Sign In page](images/sign_in.png)
 
